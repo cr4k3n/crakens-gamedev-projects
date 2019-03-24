@@ -1,2 +1,2 @@
 # crakens-gamedev-projects
-repository for our gamesssss
+--> owner cr4ck3n
